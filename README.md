@@ -2,7 +2,7 @@
 ### Backend разработчик на Python.
 
 Стек технологий:
-**Python, Django, Bootstrap 4/5, HTML, CSS, git, js, pytest, venv, API, другие**
+**Python, Django, Bootstrap 4/5, HTML, CSS, git, js, pytest, venv, API, JavaScript, другие**
 
 ## Основной стек технологий
 ![Python](/svg/python.svg)
