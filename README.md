@@ -1,11 +1,11 @@
 I'm Sergey V.
 
-Python backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+Python backend developer and Blockchain developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 ---
 ## Контакты
-[<img src="./svg/telegram.svg">](https://t.me/saiokan)
-[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:goldremt@yandex.ru)
+[<img src="./svg/telegram.svg" width="70px" height="70px">](https://t.me/saiokan)
+[<img src="./svg/gmail.svg" width="70px" height="70px">](mailto:goldremt@yandex.ru)
 
 ### 🛠 &nbsp;Languages and Tools :
 
