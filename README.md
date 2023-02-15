@@ -3,6 +3,9 @@ I'm Sergey V.
 Python backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 ---
+## Контакты
+[<img src="./svg/telegram.svg">](https://t.me/saiokan)
+[<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:goldremt@yandex.ru)
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -21,7 +24,11 @@ Python backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YokaSaio&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YokaSaio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+<a href="https://github-readme-stats-sigma-five.vercel.app/api?username=YokaSaio&hide=contribs&show_icons=true&theme=dark">
+  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YokaSaio&hide=contribs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YokaSaio&layout=compact&theme=dark">
+  <img align="center" height="130" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YokaSaio&layout=compact&theme=dark" />
+</a>
+</div>
