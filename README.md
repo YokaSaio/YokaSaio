@@ -4,8 +4,8 @@ Python backend developer and Blockchain developer <img src="https://media.giphy.
 
 ---
 ### Contacts :
-[<img src="./svg/telegram.svg" width="70px" height="70px">](https://t.me/saiokan)
-[<img src="./svg/gmail.svg" width="70px" height="70px">](mailto:goldremt@yandex.ru)
+[<img src="./svg/telegram.svg" width="50px" height="50px">](https://t.me/saiokan)
+[<img src="./svg/gmail.svg" width="50px" height="50px">](mailto:goldremt@yandex.ru)
 
 ### Languages and Tools :
 
