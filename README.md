@@ -3,9 +3,6 @@ I'm Sergey V.
 Python backend developer and Blockchain developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 ---
-### Contacts :
-[<img src="./svg/telegram.svg" width="50px" height="50px">](https://t.me/saiokan)
-[<img src="./svg/gmail.svg" width="50px" height="50px">](mailto:goldremt@yandex.ru)
 
 ### Languages and Tools :
 
