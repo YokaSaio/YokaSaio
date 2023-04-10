@@ -1,5 +1,3 @@
-I'm Sergey V.
-
 Python backend developer and Blockchain developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 ---
